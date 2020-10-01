@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>40x40</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="40"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="40" height="40" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="40x40">
+            <use id="Rectangle-3" stroke-opacity="0.0448652627" stroke="#BFBDBD" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+            <polygon id="Rectangle-1" fill="#34495E" transform="translate(21.247681, 20.051769) scale(-1, 1) translate(-21.247681, -20.051769) " points="23.0523398 7.21311475 29.6415414 7.21311475 19.8948344 32.8904228 12.8538216 32.8904228"></polygon>
+            <polygon id="Rectangle-1" fill="#32465B" transform="translate(16.591476, 26.609146) scale(-1, 1) translate(-16.591476, -26.609146) " points="17.5437343 20.3278689 20.2941231 20.3278689 20.2941231 32.8904228 12.8888292 32.8904228"></polygon>
+        </g>
+    </g>
+</svg>
