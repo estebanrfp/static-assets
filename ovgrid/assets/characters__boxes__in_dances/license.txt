@@ -1,0 +1,11 @@
+Model Information:
+* title:	Characters  boxes  in dances
+* source:	https://sketchfab.com/3d-models/characters-boxes-in-dances-8cec15aa4d5840eea1b2d76c9fb78f78
+* author:	Unity  (shehab house) (https://sketchfab.com/shahabahmed)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Characters  boxes  in dances" (https://sketchfab.com/3d-models/characters-boxes-in-dances-8cec15aa4d5840eea1b2d76c9fb78f78) by Unity  (shehab house) (https://sketchfab.com/shahabahmed) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
